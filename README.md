@@ -54,4 +54,4 @@ public class OrderTest {
 }
 ```
 ## UML CLASS DIAGRAM
-
+![Solid Principles](https://github.com/user-attachments/assets/280bd431-d6b1-434d-b8cf-920821d27e03)
